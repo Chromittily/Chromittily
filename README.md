@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Tiana, and I'm a **Digital Artist** and **Java Programmer** interested in _Game Design_! 
+My name is Tiana, and I'm a **Digital Artist** and **Java Programmer** interested in _**Game Design**_! 
 
-- 🔭 I’m 
-- 🌱 I’m studying Advanced Java Techniques.
-- ⚡ Fun fact: ...
+
+- 🖥️ I’m studying Advanced Java Techniques in this [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=LPA_APR_2025).
+- 🕹️ Check out my Game Jam entry [Guardian of the Sea](https://chromittily.itch.io/guardian-of-the-sea), built with the Unity Game Engine 🎮.
+- ⚡ Fun fact: I drew my profile image 🎨.
 
 <!--
 **Chromittily/Chromittily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
