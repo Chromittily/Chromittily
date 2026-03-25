@@ -3,7 +3,7 @@
 My name is Tiana, and I'm a **Digital Artist** and **Java Programmer** interested in _**Game Design**_! 
 
 
-- 🖥️ I’m studying to be an Google IT Support Professional through this [Coursera Course](https://www.coursera.org/professional-certificates/google-it-support)).
+- 🖥️ I’m studying to be an Google IT Support Professional through this [Coursera Course](https://www.coursera.org/professional-certificates/google-it-support).
 - 🕹️ Check out my Game Jam entry [Guardian of the Sea](https://chromittily.itch.io/guardian-of-the-sea), built with the Unity Game Engine 🎮.
 - ⚡ Fun fact: I drew my profile image 🎨.
 
