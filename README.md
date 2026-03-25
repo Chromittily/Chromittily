@@ -3,7 +3,7 @@
 My name is Tiana, and I'm a **Digital Artist** and **Java Programmer** interested in _**Game Design**_! 
 
 
-- 🖥️ I’m studying Advanced Java Techniques in this [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=LPA_APR_2025).
+- 🖥️ I’m studying to be an Google IT Support Professional through this [Coursera Course](https://www.coursera.org/professional-certificates/google-it-support)).
 - 🕹️ Check out my Game Jam entry [Guardian of the Sea](https://chromittily.itch.io/guardian-of-the-sea), built with the Unity Game Engine 🎮.
 - ⚡ Fun fact: I drew my profile image 🎨.
 
@@ -12,6 +12,7 @@ My name is Tiana, and I'm a **Digital Artist** and **Java Programmer** intereste
 
 Here are some ideas to get you started:
 
+- I’m studying Advanced Java Techniques in this [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=LPA_APR_2025).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
